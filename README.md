@@ -1,4 +1,6 @@
-Seja bem vindo! Me chamo Pierre, sou estudante de programação, tenho formação como técnico de informatica pelo Centro Paula Souza e atualmente estou estudando desenvolvimento web front-end.
+Seja bem vindo! :neutral_face:
+<br>
+Me chamo Pierre, sou estudante de programação, tenho formação como técnico de informatica pelo Centro Paula Souza e atualmente estou estudando desenvolvimento web front-end.
 <br/>
 <br/>
 Linguagens e etc: HMTL5, CSS3, JavaScript (ES5 / ES6), Bootstrap 5, React, SQL, MongoDB, APIs Rest, Java, C#, PHP, Laravel.
