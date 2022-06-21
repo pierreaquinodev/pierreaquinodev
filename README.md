@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @pierreaquinodev
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS
+Me Chamo Pierre, sou estudante de programação, em específico desenvolvimento web front-end.
+Técnologias: HMTL5, CSS3, JavaScript (ES5 / ES6), Bootstrap 5, React, SQL, MongoDB, APIs Rest.
 
 <!---
 pierreaquinodev/pierreaquinodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
