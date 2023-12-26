@@ -1,9 +1,8 @@
 Seja bem vindo! :neutral_face:
 <br>
-Me chamo Pierre, sou estudante de programação, tenho formação como técnico de informatica pelo Centro Paula Souza e atualmente estou estudando desenvolvimento web front-end.
+Me chamo Pierre, sou um profissional com inglês fluente e alguns anos de experiência em diversas áreas do setor de desenvolvimento de sistemas, dentre elas, análise de sistemas, documentação técnica (requisitos e especificação funcional), testes manuais de sistemas Web, Delphi e APIs REST, analista de banco de dados SQL (MS SQL Server e MySQL), análise de risco e suporte técnico.
+Atualmente estou em busca de recolocação no mercado de trabalho nas áreas relacionadas ao meu perfil profissional com preferência na área de desenvolvimento ou banco de dados.
 <br/>
-<br/>
-Linguagens e etc: HMTL5, CSS3, JavaScript (ES5 / ES6), Bootstrap 5, React, SQL, MongoDB, APIs Rest, Java, C#, PHP, Laravel.
 
 <!---
 pierreaquinodev/pierreaquinodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
